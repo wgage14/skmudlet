@@ -1,15 +1,8 @@
-0.4.1
-2023-12-3
-
-<OrangeRed>Item Journal Overhaul:<reset>
-<dark_orange>-<reset><violet> After tons of requests, the Item Journal has gained the "tag" feature, allowing you to add tags to items.<reset>
-
-<OrangeRed>New Features:<reset>
-<dark_orange>-<reset><violet> Variable functionality appropriately aped. Pending aliases to act onv ariables<reset>
+0.4.2
+2023-12-4
 
 <OrangeRed>Updates:<reset>
-<dark_orange>-<reset><violet> Fixed chat capture.<reset><OrangeRed>
-<dark_orange>-<reset><violet> Cleaned up color coherence and window refreshes.<reset><OrangeRed>
+<dark_orange>-<reset><violet> okay maybe i finally fixed chat and updated it right.<reset><OrangeRed>
 
 <OrangeRed>Bug Fixes:<reset>
 <dark_orange>-<reset><violet> Numerous. Good luck.<reset><OrangeRed>-
