@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 0.4.2
 2023-12-4
 
@@ -6,5 +7,12 @@
 
 <OrangeRed>Bug Fixes:<reset>
 <dark_orange>-<reset><violet> Numerous. Good luck.<reset><OrangeRed>-
+=======
+0.4.2.1
+2023-12-5
+
+<OrangeRed>Updates:<reset>
+<dark_orange>-<reset><violet> Fixed tribunal chat capture.<reset><OrangeRed>
+>>>>>>> Stashed changes
 
 Report issues on Discord.
